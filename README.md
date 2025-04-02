@@ -1,4 +1,4 @@
-# 桌面TXT文件管理工具
+# MyFirstMcpServer
 
 基于MCP框架的桌面TXT文件管理工具，提供以下功能：
 
@@ -10,8 +10,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/desktop-txt-manager.git
-cd desktop-txt-manager
+git clone https://github.com/YingHe-1/MyFirstMcpServer.git
+cd MyFirstMcpServer
 
 # 安装依赖
 pip install -r requirements.txt
