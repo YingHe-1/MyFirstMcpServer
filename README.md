@@ -1,4 +1,5 @@
 # MyFirstMcpServer
+[![smithery badge](https://smithery.ai/badge/@YingHe-1/yhfirstmcpserver)](https://smithery.ai/server/@YingHe-1/yhfirstmcpserver)
 
 基于MCP框架的桌面TXT文件管理工具，提供以下功能：
 
@@ -8,6 +9,15 @@
 
 ## 安装
 
+### Installing via Smithery
+
+To install MyFirstMcpServer for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@YingHe-1/yhfirstmcpserver):
+
+```bash
+npx -y @smithery/cli install @YingHe-1/yhfirstmcpserver --client claude
+```
+
+### Manual Installation
 ```bash
 # 克隆仓库
 git clone https://github.com/YingHe-1/MyFirstMcpServer.git
