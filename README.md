@@ -8,6 +8,16 @@
 
 ## 安装
 
+### Installing via Smithery
+
+To install MyFirstMcpServer for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@YingHe-1/myfirstmcpserver-1):
+
+```bash
+npx -y @smithery/cli install @YingHe-1/myfirstmcpserver-1 --client claude
+```
+
+### Manual Installation
+
 ```bash
 # 克隆仓库
 git clone https://github.com/YingHe-1/MyFirstMcpServer.git
